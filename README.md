@@ -1,4 +1,4 @@
-### Hi there 👋
+### DevOps by trade. Tinkerer by night.
 
 <!--
 **Francommit/francommit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
